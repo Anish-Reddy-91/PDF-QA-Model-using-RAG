@@ -17,13 +17,13 @@ Key files:
 
 ## How to Run the Code
 1. **Create Virtual Environment**:
-    Step 1:Create a new directory for your project and Navigate to the project directory.
-    Step 2: Create a virtual environment using venv.
-        python -m venv .venv
-    Step 3: Activate the virtual environment. 
-        .venv\Scripts\activate
-   
-    (Here .venv is virtual_environment_name)
+    - Step 1:Create a new directory for your project and Navigate to the project directory.
+    - Step 2: Create a virtual environment using venv.
+      ```bash
+         python -m venv .venv
+    - Step 3: Activate the virtual environment. 
+      ```bash
+         .venv\Scripts\activate
 
 2. **Pre-requisites**:
    - Python 3.8+
